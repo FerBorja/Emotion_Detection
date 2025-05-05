@@ -48,17 +48,17 @@ Develop a deep learning model to detect human emotions based solely on text inpu
 <p align="center">
   <img src="results/small_dataset_evaluation.png" width="400">
 </p>
-*small_dataset_evaluation.png: Graph with examples of phrases and their detected emotions.* 
+Graph with examples of phrases and their detected emotions.
 </p>
 
 <p align="center">
   <img src="results/wordcloud.png" width="400">
 </p>
-*wordcloud.png: Word cloud based on the identified emotional expressions from text.* 
+Word cloud based on the identified emotional expressions from text.
 </p>
 
 <p align="center">
   <img src="results/demo.png" width="400">
 </p>
-*demo.png: Screenshot showing the running interface for real-time emotion detection from text.* 
+Screenshot showing the running interface for real-time emotion detection from text.
 </p>
